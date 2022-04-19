@@ -68,6 +68,27 @@ nav a:hover{
     display: flex;
     justify-content: center;
 }
+.banner-destaque{
+    display: flex;
+    margin-left: 300px;
+}
+
+.destaque1 img{
+    height: 300px;
+    width: 200px;
+}
+.destaque2 img{
+    height: 300px;
+    width: 200px;
+}
+.destaque3 img{
+    height: 300px;
+    width: 200px;
+}
+.destaque4 img{
+    height: 300px;
+    width: 200px;
+}
 .banner-option{
     height: 120px;
     display: flex;
