@@ -68,9 +68,19 @@ nav a:hover{
     display: flex;
     justify-content: center;
 }
+.novidade{
+    display: flex;
+    margin-top: -300px;
+    margin-left: 580px;
+}
+.novidade img{
+    height: 250px;
+    width: 500px;
+}
 .banner-destaque{
     display: flex;
     margin-left: 300px;
+    margin-top: 85px;
 }
 
 .destaque1 img{
